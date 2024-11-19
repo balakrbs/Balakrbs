@@ -19,7 +19,7 @@ Welcome to my corner of the digital world! I’m a **Full Stack Developer Freshe
 ---
 
 ## 🏗️ **Projects in Action**
-### 🌐 **Online Bus Ticket Booking System**
+### 🌐 [Online Bus Ticket Booking System](https://github.com/balakrbs/online-bus-ticket-booking-system)
 **Features:**
 - Secure JWT-based user authentication.
 - MongoDB-powered booking management and route browsing.
@@ -27,14 +27,14 @@ Welcome to my corner of the digital world! I’m a **Full Stack Developer Freshe
 
 ---
 
-### 🏥 **Patient & Medication Management System**
+### 🏥 [Patient & Medication Management System](https://github.com/balakrbs/Patient-medication-management.git)
 **Features:**
 - Comprehensive management of patient data and prescriptions.
 - CRUD operations and secure user authentication.
 
 ---
 
-### ⚙️ **IoT-Based System for Women Safety**
+### ⚙️ [IoT-Based System for Women Safety](https://github.com/balakrbs/-IoT-based-Women-safety-system.git)
 **Highlights:**
 - Real-time monitoring and safety alert mechanisms.
 
