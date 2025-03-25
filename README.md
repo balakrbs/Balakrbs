@@ -62,7 +62,7 @@ Welcome to my corner of the digital world! I’m a **Full Stack Developer Freshe
 ---
 
 ### 🌟 **Showcase**
-- **Resume**: [View Here](https://drive.google.com/file/d/1X4wv5vq6V1KIZsoc7ZSsXIcGM7-fhp2J/view?usp=drive_link)
+- **Resume**: [View Here](https://drive.google.com/file/d/1EIOWP066baFXsxBEN8x7Uy7_ZCVYt0iG/view?usp=drive_link)
 
 ---
 
